@@ -2,7 +2,7 @@
 
 JOB HIVE - debugging: https://react-job-search-app.vercel.app/
 
-![Sample](https://1drv.ms/i/s!AmXcC0Lui__1rzpGp5jV7mq1Uxa9?e=NWnDAj)
+![Sample](https://imgur.com/a/wtO54CE)
 
 
 
